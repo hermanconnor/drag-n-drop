@@ -41,7 +41,7 @@ header {
   border-radius: 15px;
 }
 
-.dropzone i {
+.dropzone svg {
   font-size: 3rem;
   flex-grow: 1;
   padding-top: 1rem;
